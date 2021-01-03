@@ -1,0 +1,27 @@
+.ImageContainer{
+    background-image: url('https://i.postimg.cc/76kStDSv/food-wallpaper.png');
+    border-style: solid;
+    border-color: white;
+}
+
+.heading{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.LocationSelector{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.LocationDropdown{
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+}
+.Locationdroplist{
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
